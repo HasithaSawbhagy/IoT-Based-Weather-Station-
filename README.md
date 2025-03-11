@@ -1,6 +1,3 @@
-# Batch20_Group32
-IoT-Based Weather Station
-
 # IoT-Based Weather Station
 
 ## Project Description
@@ -67,13 +64,3 @@ The system provides real-time monitoring of:
 
 ## Block Diagram
 ![Block Diagram](<Block Diagram.png>)
-
-## Contributors
-
-| Index Number | Name              |
-| ------------ | ----------------- |
-| 204031F      | Dassanayaka H.D.H.S |
-| 204003X      | Amarasekara M.G.V.C |
-| 204002T      | Adhikari A.N.K     |
-| 204026U      | Chanuki J.A.C      |
-| 204100R      | Kavindi J.A.D.A     |
